@@ -6,7 +6,7 @@ The goal of this project is to read a 125KHz RFID card and extract the card numb
 
 This code is open source and can freely be reused and distributed without any expectation of warranty. If you find a way to make the code better, please share the updates with us so we can continue to learn and keep the project growing.
 
-If you are interested in RFID chips, human implantable chips, or working with Arduino code please consider checking out our YouTube channel and following along with some of our projects.
+If you are interested in RFID chips, human implantable chips, or working with Arduino code please consider checking out our YouTube channel (https://www.youtube.com/channel/UCydTpOMtE03bf1HdMg02Pcg) and following along with some of our projects.
 
 - Michael
 
